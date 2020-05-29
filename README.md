@@ -1,5 +1,7 @@
 # Witness
 
+Official form to ask for witnessing [https://paralelnapolis.sk/witness-overenie-obsahu-na-internete/](https://paralelnapolis.sk/witness-overenie-obsahu-na-internete/) paid by crypto.
+
 ## Insall
 
 ```bash
