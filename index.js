@@ -61,7 +61,7 @@ pre žiadateľa: ${argv.email}
 prostredníctvom open-source programu https://github.com/ParalelnaPolis/witness
 
 Stránka obsahuje obsah, ktorý by bol zobrazený na štandardnom prehliadači Chrome prostredníctvom strojového zobrazenia stránky bez zásahu strán u koncového užívateľa.
-IP adresa užívateľa: ${ip.data}
+IP adresa užívateľa: ${ip}
 Uvedené prehlásenie môže byť použité ako nestranný dôkaz tretej strany, ktorá nemá záujem na výsledku dokazovania.
 Poučenie pre súd, podľa § 100 ods. 1 zákona č. 160/2015 Z. z. civilný sporový poriadok, “Súd dbá, aby strany a ostatné predvolávané osoby boli procesnými úkonmi súdu čo najmenej zaťažované, najmä dbá, aby boli predvolávané na čas, kedy pravdepodobne bude ich účasť na procesnom úkone potrebná.” Nakoľko nie je v možnostiach združenia a jeho členov zúčastňovať sa pojednávaní v každej veci, v ktorej bol takýto dôkaz vytvorený, odporúča združenie predvolanie súdneho znalca. Dotazy orgánov verejnej moci radi zodpovieme dištančným spôsobom prostredníctvom adresy PARALELNÁ POLIS, Lermontovova 3, 81105 Bratislava, Slovenská republika alebo elektronicky na info@paralelnapolis.sk
 
